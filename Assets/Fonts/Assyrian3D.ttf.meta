@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7cdf9acd9e04f34428a92cb98324f1d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Assyrian 3D
+  fontNames:
+  - Assyrian 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6689b131e62e26c4dad96609180794df, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
